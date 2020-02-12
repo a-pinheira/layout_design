@@ -1,12 +1,12 @@
 # layout_design
 > HTML 5, CSS, Framework Bootstrap templates, Flexbox
 
-## De design ao código
+## Do Design ao Código
 
 >> DESIGN: FERRAMENTA <i> FIGMA - Ferramenta de Design:</i> https://www.figma.com
 
 ## ROTEIRO 
-> CÓDIGO
+> CÓDIGO </br>
 Container para outras tags = head </br>
 Título - title </br>
 Cabeçalhos (headers) </br>
@@ -20,7 +20,7 @@ Paragrafo (p) </br>
 Hyperlin (a) </br>
 Divisão (div) </br>
 
-> LAYOUT
+> LAYOUT </br>
 FRAMEWORKS: Flexbox, Bootstrap
 
 by Mony Machado
