@@ -3,7 +3,10 @@
 
 ## De design ao código
 
-## ROTEIRO
+>> DESIGN: FERRAMENTA <i> FIGMA - Ferramenta de Design:</i> https://www.figma.com
+
+## ROTEIRO 
+> CÓDIGO
 Container para outras tags = head </br>
 Título - title </br>
 Cabeçalhos (headers) </br>
@@ -16,5 +19,8 @@ Lista de item (li) </br>
 Paragrafo (p) </br>
 Hyperlin (a) </br>
 Divisão (div) </br>
+
+> LAYOUT
+FRAMEWORKS: Flexbox, Bootstrap
 
 by Mony Machado
