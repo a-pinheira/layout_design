@@ -1,0 +1,12 @@
+/* Flex */
+.flex {
+    display: flex;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.flex-item-1 {
+    flex: 1;
+}
